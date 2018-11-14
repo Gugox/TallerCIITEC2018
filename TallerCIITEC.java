@@ -1,8 +1,9 @@
 
 package tallerciitec;
+import javax.swing.JOptionPane;
 /**
  *
- * @author antonio072
+ * @author Gugox
  * Clase de Java creada para el taller de Git y Github
  */
 public class TallerCIITEC {
