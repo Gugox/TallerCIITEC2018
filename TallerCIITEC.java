@@ -9,13 +9,7 @@ import javax.swing.JOptionPane;
 public class TallerCIITEC {
 
     public static void main(String[] args) {
-      int a;
-      int b;
-      int c;
-      int d;
-      int e;
-      int f;
-      int g;
+      int a, b, c, d, e, f, g;
       a=1;
       b=2;
       c=3;
